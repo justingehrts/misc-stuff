@@ -1,0 +1,72 @@
+TBVM7,Test Osage River near Taberville
+ACRO1,Alum Creek at Alum Creek Lake
+AFRO1,Alum Creek at Africa
+CLMO1,Alum Creek at Columbus
+DBVO1,Big Darby Creek at Darbyville
+SBYO1,Big Walnut Creek at Sunbury
+HOOO1,Big Walnut Creek at Hoover Pool
+CSCO1,Big Walnut Creek at Central College
+REEO1,Big Walnut Creek at Rees
+BCLO1,Buckeye Lake near Watkins Island
+RKBO1,Clear Creek above Rockbridge
+MSTO1,Deer Creek at Mount Sterling
+DCRO1,Deer Creek at Deer Creek Lake
+WMSO1,Deer Creek at Williamsport
+HBGO1,Hellbranch Run at Harrisburg
+LNSO1,Hocking River at Lancaster
+ENTO1,Hocking River at Enterprise
+ATHO1,Hocking River at Athens
+FTN01,Kokosing River at Fredericktown
+MVE01,Kokosing River Mt. Vernon
+LWCO1,Leatherwood Creek near Kipling
+DLFO1,Licking River at Dillon Dam Pool
+DLLO1,Licking River at Dillon Dam Tailwater
+WEJO1,Little Darby Creek near West Jefferson
+BLPO1,Mill Creek at Bellepoint
+UTCO1,North Fork Licking River at Utica
+NEPO1,North Fork Licking River at Newark - Water Plant
+NMSO1,North Fork Licking River at Newark - Main St.
+NKOO1,North Fork Licking River at Newark - Ohio St.
+CRDO1,Olentangy River at Clarindon
+DLWO1,Olentangy River at Delaware Lake
+DELO1,Olentangy River near Delaware
+WRTO1,Olentangy River near Worthington
+HRKO1,Olentangy River at Columbus - Herrick Dr.
+GLDO1,Paint Creek near Greenfield
+PCRO1,Paint Creek at Paint Creek Lake Pool
+BBRO1,Paint Creek below Paint Creek Dam at Bainbridge
+BVLO1,Paint Creek near Bourneville
+CPCO1,Paint Creek at Chillicothe
+GRNO1,Raccoon Creek near Granville
+RNCO1,Raccoon Creek at Newark - Wilson St.
+SILO1,Salt Fork at North Salem
+LARO1,Scioto River at Larue
+PRGO1,Scioto River at Prospect
+OSAO1,Scioto River below O'Shaughnessy Reservoir
+DUBO1,Scioto River near Dublin
+SFAO1,Scioto River at Columbus - 5th Ave.
+COLO1,Scioto River at Columbus - Frank Rd.
+CMMO1,Scioto River near Commercial Point
+CRCO1,Scioto River at Circleville
+CHCO1,Scioto River at Chillicothe
+HIGO1,Scioto River at Higby
+PKTO1,Scioto River at Piketon
+SNLO1,Seneca Fork at Senecaville Dam Pool
+SNCO1,Seneca Fork at Senecaville Dam Tailwater
+KRKO1,South Fork Licking River at Kirkersville
+ISVO1,South Fork Licking River near Buckeye Lake - I-70
+BEEO1,South Fork Licking River near Hebron
+SFHO1,South Fork Licking River near Heath
+NEAO1,South Fork Licking River near Newark - Stadden Bridge
+MHWO1,Walhonding River at Mohawk Dam Pool
+NLLO1,Walhonding River at Nellie
+WHDO1,Walhonding River at Walhonding
+CSHO1,Muskingum River below Coshocton
+DREO1,Muskingum River at Dresden
+ZANO1,Muskingum River at Zanesville
+MCCO1,Muskingum River at McConnellsville
+DWTO1,Wills Creek at Derwent
+CDIO1,Wills Creek at Cambridge
+WCLO1,Wills Creek at Wills Creek Dam Pool
+WLLO1,Wills Creek at Wills Creek Dam Tailwater
+MNGO1,Whetstone Creek at Mt. Gilead
